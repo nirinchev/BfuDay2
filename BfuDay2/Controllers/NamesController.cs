@@ -11,7 +11,8 @@ namespace BfuDay2.Controllers
         {
             return this.Ok(new[]
             {
-                "Niki"
+                "Niki",
+                "Konstantin"
             });
         }
     }
