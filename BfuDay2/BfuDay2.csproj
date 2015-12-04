@@ -166,6 +166,7 @@
   <ItemGroup>
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\FilesController.cs" />
+    <Compile Include="Controllers\NamesController.cs" />
     <Compile Include="Controllers\PIngController.cs" />
     <Compile Include="Controllers\ShortenController.cs" />
     <Compile Include="Controllers\UsersController.cs" />
